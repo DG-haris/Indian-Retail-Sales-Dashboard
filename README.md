@@ -6,8 +6,6 @@ This project focuses on analyzing Indian retail sales data from 2019 to 2023 usi
 
 The dashboard provides an overview of key business metrics and allows users to explore performance through interactive filters.
 
-> **Dataset note:** This is a practice/portfolio dataset and should not be interpreted as verified real-world retailer data.
-
 ## Project Objectives
 
 - Analyze overall sales and profit performance.
